@@ -1,2 +1,2 @@
 #HelloWorld
-#hey though I'm late in the party... please take good care of me!!
+A repository to check new features of GitHub before adopting them in personal projects based on necessity.
